@@ -5,3 +5,4 @@
 
 ## Estructura del Club de Lectura
 #### En  nuestro repositorio nos encontraremos diferentes clubs de lectura en el cual podremos dar opiniones sobre libros o recomendar libros
+#### Cada club tendra una lista TOP de  10 libros 
